@@ -1,4 +1,5 @@
 <img style="margin-top: 40px;" align="right" width="300px" src="[https://giphy.com/embed/RgzryV9nRCMHPVVXPV](https://media.giphy.com/media/RgzryV9nRCMHPVVXPV/giphy.gif)">
+
 <iframe src="https://giphy.com/embed/RgzryV9nRCMHPVVXPV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trippy-abstract-pi-slices-RgzryV9nRCMHPVVXPV">via GIPHY</a></p>
 
 - 💻 Estudante de Ciência da Computação
