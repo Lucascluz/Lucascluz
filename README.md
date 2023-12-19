@@ -1,6 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="300px" src="https://camo.githubusercontent.com/1d04ccbe1e520c0758bff2af297aa8b61962ac6a5a57bae0ce1f3d90593fceb5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c324a6877646e724776666e6f58727a692f67697068792e676966">
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/RgzryV9nRCMHPVVXPV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/trippy-abstract-pi-slices-RgzryV9nRCMHPVVXPV">via GIPHY</a></p>
+<img style="margin-top: 40px;" align="right" width="300px" src="[https://camo.githubusercontent.com/1d04ccbe1e520c0758bff2af297aa8b61962ac6a5a57bae0ce1f3d90593fceb5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c324a6877646e724776666e6f58727a692f67697068792e676966](https://giphy.com/embed/RgzryV9nRCMHPVVXPV)">
 
 - 💻 Estudante de Ciência da Computação
 - :mortar_board: Ciência da Compução
