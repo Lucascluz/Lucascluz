@@ -1,5 +1,3 @@
-<img style="margin-top: 40px;" align="right" width="300px" src="https://giphy.com/gifs/trippy-abstract-pi-slices-RgzryV9nRCMHPVVXPV">
-
 - 💻 Estudante de Ciência da Computação
 - :mortar_board: Puc Minas
 
