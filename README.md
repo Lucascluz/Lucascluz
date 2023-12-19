@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="300px" src="https://giphy.com/embed/RgzryV9nRCMHPVVXPV">
+<img style="margin-top: 40px;" align="right" width="300px" src="[https://giphy.com/embed/RgzryV9nRCMHPVVXPV](https://media.giphy.com/media/RgzryV9nRCMHPVVXPV/giphy.gif)">
 
 - 💻 Estudante de Ciência da Computação
 - :mortar_board: Puc Minas
